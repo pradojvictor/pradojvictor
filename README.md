@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pradojvictor
+- 👋 Hi, I’m João Victor Prado
 - 👀 I’m interested in Games/ Animes/ Music/ Films/ Walking/ and other
 - 📫 How to reach me 
 - Email: Joaovictorred@hotmai.com
