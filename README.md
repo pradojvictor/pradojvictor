@@ -1,6 +1,4 @@
 ## Hello! Welcome to my Github profile.
-
-<a  href ="portifolio-umber-six.vercel.app/"><img src="https://icongr.am/material/alpha-p-box.svg?size=128&color=currentColor" target="_blank"></a>
  
 ### My name is João Victor Prado! 
 <div  justify-content= "space-between" >
