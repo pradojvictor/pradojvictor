@@ -25,8 +25,8 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: pradojvic
-          template: terminal
+          user: pradojvictor
+          template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: America/Fortaleza
           plugin_isocalendar: yes
@@ -36,3 +36,9 @@ jobs:
           plugin_starlists_limit_languages: 8
           plugin_starlists_limit_repositories: 2
           plugin_starlists_shuffle_repositories: yes
+          plugin_stars: yes
+          plugin_stars_limit: 4
+          plugin_topics: yes
+          plugin_topics_limit: 15
+          plugin_topics_mode: icons
+          plugin_topics_sort: stars
